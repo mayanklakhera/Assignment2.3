@@ -1,0 +1,9 @@
+table{
+    width:50%;
+    font-family:verdana;
+}
+table,th,td{
+    border:2px solid black;
+    text-align:center;
+    border-collapse:collapse;
+}
